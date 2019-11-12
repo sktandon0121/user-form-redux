@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+div {
+  margin: 10px;
+}
+.user-form {
+  margin: 20px;
+  border: 1px solid gray;
+  box-shadow: 0px 2px 4px 0px gray;
+  padding: 10px;
+}
